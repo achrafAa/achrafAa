@@ -28,6 +28,8 @@ Achraf AAMRI | Senior Software Engineer & Solution Architect
 
 🚀 **Notable Projects**
 
+*   🏆 [**LaTeX-CV-Docker-Image**](https://github.com/achrafAa/LaTeX-CV-Docker-Image) – This Docker image is designed to simplify the process of building LaTeX-based CVs and resumes. It includes all necessary LaTeX packages and fonts
+
 *   🏆 [**CSVHelper**](https://github.com/PHP-CSV/CSVHelper) – A fast PHP CSV processing library (because spreadsheets shouldn’t be a nightmare) in progress
     
 *   🏗️ Architected **multi-tenant** systems that scaled **300%** (unlike my patience with bad code)
