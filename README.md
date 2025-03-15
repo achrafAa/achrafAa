@@ -1,6 +1,5 @@
 # Achraf AAMRI | Senior Software Engineer & Solution Architect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achrafaamri)  
-[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=flat-square&logo=x)](https://x.com/aamri_achraf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achrafaamri)  [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=flat-square&logo=x)](https://x.com/aamri_achraf)  
 
 👋 Hey there! I'm **Achraf**, a **Senior Software Engineer & Solution Architect** who spends half his time **architecting scalable systems** and the other half **wondering why Docker containers keep growing in size**.  
 
@@ -37,5 +36,4 @@
 ---
 
 ## 📬 **Let’s Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achrafaamri)  
-[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=flat-square&logo=x)](https://x.com/aamri_achraf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achrafaamri)  [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=flat-square&logo=x)](https://x.com/aamri_achraf)  
