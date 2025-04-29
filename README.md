@@ -19,13 +19,17 @@
 
 ---
 
-## 🚀 **Notable Projects**  
+## 🌟 **Open Source Contributions**
+- 🚀 **[Laravel Framework](https://github.com/laravel/framework)** - Contributed to the core framework (bugfix) ([PR #55572](https://github.com/laravel/framework/pull/55572))
+- 🏆 [**LaTeX-CV-Docker-Image**](https://github.com/achrafAa/LaTeX-CV-Docker-Image) - A Docker image to simplify building LaTeX-based CVs
+- 🏆 [**CSVHelper**](https://github.com/PHP-CSV/CSVHelper) - A fast PHP CSV processing library
 
-- 🏆 [**LaTeX-CV-Docker-Image**](https://github.com/achrafAa/LaTeX-CV-Docker-Image) – A Docker image to simplify building LaTeX-based CVs and resumes.  
-- 🏆 [**CSVHelper**](https://github.com/PHP-CSV/CSVHelper) – A fast PHP CSV processing library (in progress).  
-- 🏗️ Architected **multi-tenant systems** that scaled **300%**.  
-- ☁️ Migrated systems to **AWS** while resisting the urge to "just restart everything."  
+---
 
+## 🚀 **Notable Projects & Achievements**  
+- 🏗️ Architected **multi-tenant systems** that scaled **300%**  
+- ☁️ Migrated systems to **AWS** while resisting the urge to "just restart everything"  
+- 💡 Optimized API response times by **40%** through query and cache improvements  
 ---
 
 ## 🏍️ **When I'm Not Coding**  
