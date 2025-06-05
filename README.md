@@ -35,6 +35,7 @@
 ### **Core Contributions**
 - 🚀 **[Laravel Framework](https://github.com/laravel/framework)** - Core framework contributor
 - [[12.x] ScheduledTaskFailed not dispatched on scheduled forground task fails ](https://github.com/laravel/framework/pull/55624)
+- [Fix SSL Certificate and Connection Errors Leaking as Guzzle Exceptions](https://github.com/laravel/framework/pull/55937)
 
 ### **Created & Maintained Projects**
 - 🐘 **[PHP Dev Box](https://github.com/achrafAa/php-dev-box)** ![GitHub stars](https://img.shields.io/github/stars/achrafAa/php-dev-box?style=flat-square) - Containerized PHP development environment
