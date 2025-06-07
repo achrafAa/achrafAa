@@ -1,7 +1,7 @@
-# Achraf AAMRI | Senior Systems Engineer & PHP Internals Developer  
+# Achraf AAMRI | Senior Software Engineer 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achrafaamri) [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=flat-square&logo=x)](https://x.com/aamri_achraf)
 
-👋 **Senior Systems Engineer & PHP Internals Developer** passionate about low-level programming and performance optimization. I build PHP extensions, explore PHP internals, and dive deep into systems programming with C, Rust, and Zig. When I'm not optimizing at the byte level, I architect scalable backend solutions ⚡
+👋 **Senior Software Engineer** passionate about low-level programming and performance optimization. I build PHP extensions, explore PHP internals, and dive deep into systems programming with C, Rust, and Zig. When I'm not optimizing at the byte level, I architect scalable backend solutions ⚡
 
 ---
 
