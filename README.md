@@ -1,13 +1,14 @@
 # Achraf AAMRI | Senior Software Engineer 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achrafaamri) [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=flat-square&logo=x)](https://x.com/aamri_achraf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achrafaamri)
 
-👋 **Senior Software Engineer** passionate about low-level programming and performance optimization. I build PHP extensions, explore PHP internals, and dive deep into systems programming with C, Rust, and Zig. When I'm not optimizing at the byte level, I architect scalable backend solutions ⚡
+👋 **Senior Software Engineer** passionate about low-level programming and performance optimization. I build PHP extensions, explore PHP internals, and dive deep into systems programming with C, Rust, and Zig. Creator of CSVToolkit - high-performance CSV processing tools achieving 3.6x-4.8x speed improvements ⚡
 
 ---
 
 ## 🎯 **Quick Stats**
+⚡ **CSVToolkit Creator** - High-performance CSV processing tools achieving 3.6x-4.8x speed improvements  
 🚀 **Laravel Core Contributor** - Merged bugfix improving framework reliability  
-🌟 **Open Source Maintainer** - 7 active projects with 20+ stars combined  
+🌟 **Open Source Maintainer** - 10 active projects with 20+ stars combined  
 🐘 **PHP Internals Explorer** - Deep diving into Zend engine and preparing core contributions  
 🔧 **Low-Level Programming** - Building PHP extensions with C, Rust, and Zig  
 📦 **Docker Expert** - Created development environments used by PHP community  
@@ -21,7 +22,8 @@
 ⚡ **Performance Engineering** - Optimizing at the language and system level for maximum efficiency  
 🐘 **PHP Internals Research** - Studying the Zend engine architecture and preparing for core contributions  
 🦀 **Systems Programming** - Leveraging C, Rust, and Zig for performance-critical components  
-🏗️ **Backend Architecture** - Designing scalable systems with deep understanding of underlying performance
+🏗️ **Backend Architecture** - Designing scalable systems with deep understanding of underlying performance  
+📊 **CSV Processing Innovation** - Creating high-performance CSV tools that outperform native implementations by 3.6x-4.8x
 
 ---
 
@@ -31,33 +33,32 @@
 
 ---
 
-## 🌟 **Open Source Impact**
+## 🌟 **Key Projects**
+
+### **🚀 CSVToolkit Organization** - [csvtoolkit.org](https://csvtoolkit.org)
+**High-Performance CSV Processing Tools**
+
+- 🐘 **[FastCSV-ext](https://github.com/csvtoolkit/FastCSV-ext)** - PHP extension achieving **3.6x-4.8x faster** performance than native functions
+- 🔧 **[FastCSV-C](https://github.com/csvtoolkit/FastCSV-C)** - Zero-dependency C library powering the PHP extension
+- 📊 **[PHP-CSVHelper](https://github.com/csvtoolkit/PHP-CSVHelper)** - Intelligent PHP library with automatic performance optimization
+
+
 ### **Core Contributions**
 - 🚀 **[Laravel Framework](https://github.com/laravel/framework)** - Core framework contributor
-- [[12.x] ScheduledTaskFailed not dispatched on scheduled forground task fails ](https://github.com/laravel/framework/pull/55624)
-- [Fix SSL Certificate and Connection Errors Leaking as Guzzle Exceptions](https://github.com/laravel/framework/pull/55937)
-- [Fix #55989 TooManyRedirectsException handling in HTTP client](https://github.com/laravel/framework/pull/55998)
-
-### **Created & Maintained Projects**
-- 🐘 **[PHP Dev Box](https://github.com/achrafAa/php-dev-box)** ![GitHub stars](https://img.shields.io/github/stars/achrafAa/php-dev-box?style=flat-square) - Containerized PHP development environment
-- 🐳 **[PHP Dev Box Image](https://github.com/achrafAa/php-dev-box-image)** ![GitHub stars](https://img.shields.io/github/stars/achrafAa/php-dev-box-image?style=flat-square) - Pre-built Docker images for PHP core development
-- 🎓 **[Cventure](https://github.com/achrafAa/cventure)** ![GitHub stars](https://img.shields.io/github/stars/achrafAa/cventure?style=flat-square) - Interactive C programming learning platform
-- 🍎 **[MacDotfile](https://github.com/achrafAa/MacDotfile)** ![GitHub stars](https://img.shields.io/github/stars/achrafAa/MacDotfile?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/achrafAa/MacDotfile?style=flat-square) - Automated macOS developer environment setup
-- 📄 **[LaTeX-CV-Docker-Image](https://github.com/achrafAa/LaTeX-CV-Docker-Image)** ![GitHub stars](https://img.shields.io/github/stars/achrafAa/LaTeX-CV-Docker-Image?style=flat-square) - Dockerized LaTeX CV builder
-- 📊 **[CSVHelper](https://github.com/PHP-CSV/CSVHelper)** ![GitHub stars](https://img.shields.io/github/stars/PHP-CSV/CSVHelper?style=flat-square) - High-performance PHP CSV processing library
+  - [[12.x] ScheduledTaskFailed not dispatched on scheduled forground task fails](https://github.com/laravel/framework/pull/55624)
+  - [Fix SSL Certificate and Connection Errors Leaking as Guzzle Exceptions](https://github.com/laravel/framework/pull/55937)
+  - [Fix #55989 TooManyRedirectsException handling in HTTP client](https://github.com/laravel/framework/pull/55998)
+- 🐘 **[PHP Dev Box](https://github.com/achrafAa/php-dev-box)** - Containerized PHP development environment
+- 🎓 **[Cventure](https://github.com/achrafAa/cventure)** - Interactive C programming learning platform
+- 🍎 **[MacDotfile](https://github.com/achrafAa/MacDotfile)** - Automated macOS developer environment setup
 
 ---
 
-## 🚀 **Professional Achievements**
-### **Architecture & Performance**
-- 🏗️ **Microservices Migration** - Successfully decomposed monoliths achieving **300% scalability improvement**
-- ⚡ **API Optimization** - Reduced response times by **40%** through strategic caching and query optimization
-- ☁️ **Cloud Migration** - Led AWS migration reducing infrastructure costs while improving reliability
-
-### **Leadership & Impact**
-- 👥 **Team Leadership** - Mentored junior developers and established coding standards
+## 🚀 **Professional Highlights**
+- ⚡ **Performance Engineering** - Reduced API response times by **40%** through strategic optimization
+- 🏗️ **Microservices Migration** - Achieved **300% scalability improvement** through system decomposition
+- ☁️ **Cloud Architecture** - Led AWS migration reducing infrastructure costs while improving reliability
 - 🔧 **Developer Experience** - Created development tools used across multiple teams
-- 📈 **Process Improvement** - Implemented CI/CD pipelines reducing deployment time by 60%
 
 ---
 
@@ -70,15 +71,14 @@ When I'm not architecting systems or optimizing databases:
 ---
 
 ## 📈 **Current Focus**
-- ⚡ **Low-Level Programming** - Diving deep into systems programming with C, Zig, and Rust
-- 🔧 **PHP Extensions & Packages** - Building high-performance PHP extensions and reusable packages
-- 🦀 **Rust & Zig** - Exploring modern systems languages for performance-critical components
+- ⚡ **Low-Level Programming** - C, Zig, and Rust for performance-critical components
+- 🔧 **PHP Extensions** - Building high-performance extensions and packages
 - 🐘 **PHP Internals** - Contributing to PHP core and understanding the Zend engine
-- 📚 **Technical Writing** - Sharing knowledge through documentation and tutorials
+- 📊 **CSVToolkit Development** - Expanding high-performance CSV processing capabilities
 
 ---
 
-## 📬 **Let's Build Something Amazing Together**
+## 📬 **Let's Connect**
 Always open to discussing exciting projects, architecture challenges, or just geeking out about tech!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/achrafaamri) [![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-black?style=flat-square&logo=x)](https://x.com/aamri_achraf)
