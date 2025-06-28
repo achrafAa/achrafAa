@@ -7,7 +7,7 @@
 
 ## 🎯 **Quick Stats**
 ⚡ **CSVToolkit Creator** - High-performance CSV processing tools achieving 3.6x-4.8x speed improvements  
-🚀 **Laravel Core Contributor** - Merged bugfix improving framework reliability  
+🚀 **Laravel Contributor** - Merged bugfix improving framework reliability  
 🌟 **Open Source Maintainer** - 10 active projects with 20+ stars combined  
 🐘 **PHP Internals Explorer** - Deep diving into Zend engine and preparing core contributions  
 🔧 **Low-Level Programming** - Building PHP extensions with C, Rust, and Zig  
