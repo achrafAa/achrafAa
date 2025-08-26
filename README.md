@@ -45,7 +45,7 @@
 
 ### **Core Contributions**
 - 🚀 **[Laravel Framework](https://github.com/laravel/framework)** - Core framework contributor
-  - [Fix: Add $forceWrapping property to JsonResource for consistent API response wrapping] (https://github.com/laravel/framework/pull/56736)
+  - [Fix: Add $forceWrapping property to JsonResource for consistent API response wrapping](https://github.com/laravel/framework/pull/56736)
   - [[12.x] ScheduledTaskFailed not dispatched on scheduled forground task fails](https://github.com/laravel/framework/pull/55624)
   - [Fix SSL Certificate and Connection Errors Leaking as Guzzle Exceptions](https://github.com/laravel/framework/pull/55937)
   - [Fix #55989 TooManyRedirectsException handling in HTTP client](https://github.com/laravel/framework/pull/55998)
